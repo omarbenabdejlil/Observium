@@ -1,4 +1,4 @@
-# Observium
+# Auto Observium
 <h1 align="center">
   <br>
   <a href="https://github.com/omarbenabdejlil/Observium"><img src=https://i.ibb.co/GvZFj8C/Hamster-transparent.png" alt="logo-1" border="0"></a>
